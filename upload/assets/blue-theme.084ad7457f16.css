@@ -1,0 +1,41 @@
+:root{--primary-color:#3186e8;--accent-color:#3186e8;--primary:#3186e8;--secondary-color:#70b4ff;--theme-color:#3186e8;--primary-gradient:linear-gradient(120deg,#50a7f5,#3186e8)}
+html,body{background:#f5faff!important;color:#21364e}
+.top-nav-wrapper,.top-nav,header,.zh-card-container,.zh-category-side,.zh-category-wrapper,.membership-card,.membership-purchase,.membership-product-summary,.membership-benefits,.membership-about,.account-ai-card,.zd-product-info,.sd-product-info{background-color:#fff!important}
+.gradient-text{background:none!important;-webkit-text-fill-color:#3186e8!important;color:#3186e8!important}
+.nav-brand,.nav-brand i{color:#3186e8!important}
+button:not(.membership-tab):not(.chain-item):not(.network-tab),.zh-btn-buy,.zd-product-card-btn,.s-buy-btn,.sd-product-card-btn,.account-ai-button,.membership-card-action,.service-action,.rental-action,.esim-action,.sms-btn-primary,.btn-primary,.nav-toggle-category,.zd-buy-now-btn,.sd-purchase-btn{background:linear-gradient(120deg,#50a7f5,#3186e8)!important;color:#fff!important;border-color:#3186e8!important;box-shadow:0 4px 12px #3186e81a!important}
+button:hover,.zh-btn-buy:hover,.account-ai-button:hover,.membership-card-action:hover{filter:brightness(.96)}
+button:disabled{opacity:.5;cursor:not-allowed}
+.zh-category-item:hover,.zh-category-item.active,.zh-category-item.selected,.membership-tab.selected,.amount-btn.active,.chain-item.selected,.service-item.selected,.country-item.selected,.repair-selected{background:#eaf4ff!important;color:#2376d5!important;border-color:#78b8f8!important}
+.nav-menu .active-menu,.nav-menu a:hover,.account-ai-all{color:#3186e8!important;border-color:#3186e8!important}
+.nav-menu .active-menu::after{background:#3186e8!important}
+.membership-tab{background:#fff!important;color:#40617f!important;border-color:#d8e8f8!important}
+.membership-tab.selected{background:#eaf4ff!important;color:#2376d5!important;box-shadow:0 3px 12px #3186e810!important}
+.membership-description-hero{background:linear-gradient(110deg,#62b7f6,#3186e8)!important;box-shadow:0 12px 30px #3186e81c!important}
+.membership-about h2,.membership-benefits h2{color:#3186e8!important}
+.membership-about p,.membership-benefits li{background:#f2f8ff!important;border-color:#d5e8fb!important}
+.membership-benefits li>span:first-child{background:#4897ed!important}
+.account-ai-card,.membership-card,.zh-product-card,.s-product-card,.zd-product-card,.sd-product-card{border-color:#dceafa!important}
+.account-ai-card:hover,.membership-card:hover{border-color:#80bafa!important;box-shadow:0 8px 24px #3186e812!important}
+.account-ai-logo{background:#edf6ff!important}
+input:focus,textarea:focus,select:focus{outline:2px solid #9bcfff!important;border-color:#5ca8ee!important;box-shadow:0 0 0 4px #e9f4ff!important}
+input[type=radio],input[type=checkbox]{accent-color:#3186e8}
+[data-return-home]{color:#3186e8!important;border-color:#d8e8f8!important;background:#fff!important}
+.network-tab.active{background:#3186e8!important;color:#fff!important}
+.zd-product-price,.sd-product-price,.product-price-col,.zh-product-price,.zd-product-card-price,.sd-product-card-price,.s-product-price,.membership-card-price,.membership-product-price,.membership-total strong,.yf-search-item>span{color:#ff3158!important;-webkit-text-fill-color:#ff3158!important}.zd-product-price::before,.sd-product-price::before,.product-price-col::before,.zd-product-card-price::before,.sd-product-card-price::before,.membership-card-price::before,.s-product-price::before{color:#ff3158!important;-webkit-text-fill-color:#ff3158!important}.zd-product-price *,.sd-product-price *,.product-price-col *,.membership-product-price *,.membership-card-price *{color:#ff3158!important;-webkit-text-fill-color:#ff3158!important}
+.zd-product-price,.sd-product-price,.product-price-col,.zh-product-price,.zd-product-card-price,.sd-product-card-price,.s-product-price,.p-product-price,.pd-right-price,.membership-card-price,.membership-product-price,.membership-total strong,.price-tag{font-family:Arial,system-ui,sans-serif!important;font-weight:700!important;font-variant-numeric:tabular-nums;color:#ff3158!important;letter-spacing:0!important}.zd-product-price::before,.sd-product-price::before,.product-price-col::before,.zd-product-card-price::before,.sd-product-card-price::before,.s-product-price::before{font-family:inherit!important;font-weight:700!important;font-size:inherit!important;color:#ff3158!important}.s-product-card-btn,.sd-product-card-btn,.pd-purchase-btn,.p-product-card-btn{background:linear-gradient(120deg,#50a7f5,#3186e8)!important;color:#fff!important;border:1px solid #3186e8!important;box-shadow:none!important}.zh-btn-buy,.s-product-card-btn,.sd-product-card-btn,.zd-product-card-btn,.membership-card-action{font-size:13px!important;font-weight:600!important;line-height:18px!important;padding:8px 16px!important;border-radius:18px!important;min-height:0!important;box-sizing:border-box;white-space:nowrap}.s-product-price,.sd-product-card-price,.zd-product-card-price,.p-product-price,.product-price-col{font-size:23px!important}.sd-purchase-btn,.pd-purchase-btn,.zd-buy-now-btn,.membership-buy{font-size:15px!important;font-weight:600!important;padding:12px 18px!important;min-height:42px!important;line-height:20px!important;border-radius:22px!important;animation:none!important}@media(max-width:650px){.zh-btn-buy,.s-product-card-btn,.sd-product-card-btn,.zd-product-card-btn,.membership-card-action{font-size:12px!important;padding:7px 13px!important}.s-product-price,.sd-product-card-price,.zd-product-card-price,.p-product-price,.product-price-col,.membership-card-price{font-size:21px!important}.sd-product-price,.zd-product-price,.pd-right-price,.membership-product-price{font-size:27px!important}.sd-purchase-btn,.pd-purchase-btn,.zd-buy-now-btn,.membership-buy{font-size:14px!important;padding:10px 16px!important}}
+
+/* Neutral choices make the selected amount visible. */
+button.amount-btn{background:#fff!important;color:#48627e!important;border:1px solid #d7e5f4!important;box-shadow:none!important;font-weight:600!important}
+button.amount-btn.active{background:#e8f3ff!important;color:#2377d7!important;border:2px solid #3186e8!important;box-shadow:0 0 0 2px #3186e812!important}
+.s-filter-tab{color:#4c6680!important;background:#f6faff!important;border:1px solid #e2edf8!important;box-shadow:none!important}
+.s-filter-tab:hover{background:#eaf4ff!important;color:#2377d7!important}
+.s-filter-tab.active{background:#3186e8!important;color:#fff!important;border-color:#3186e8!important;box-shadow:none!important}
+.payment-brand{color:#3186e8!important;-webkit-text-fill-color:#3186e8!important}
+.yf-money-row strong,#amountNumber,.payment-amount-value,.amount-value,#paymentDialogSummary,#userBalance,.user-balance,.balance-amount,#membershipTotal,#totalPrice,.summary-total,.order-total,.total-amount{color:#ff3158!important;-webkit-text-fill-color:#ff3158!important;font-weight:700!important}
+.yf-payment-order .yf-money-row strong{color:#ff3158!important}
+
+#confirmNetworkPayment .payment-button-amount{color:#ff3158!important;-webkit-text-fill-color:#ff3158!important;font-weight:700!important}
+#rechargeModal .recharge-amounts button.amount-btn{background:#fff!important;background-image:none!important;color:#526780!important;-webkit-text-fill-color:#526780!important;border:1px solid #d8e5f3!important;box-shadow:none!important}#rechargeModal .recharge-amounts button.amount-btn.active{background:#3186e8!important;background-image:none!important;color:#fff!important;-webkit-text-fill-color:#fff!important;border:1px solid #3186e8!important;box-shadow:0 3px 10px #3186e822!important}#rechargeModal .recharge-amounts button.amount-btn:not(.active):hover{background:#f2f8ff!important;color:#526780!important}
+
+.youfeng-brand-logo{display:inline-block!important;width:34px!important;height:34px!important;flex:0 0 34px!important;vertical-align:middle;object-fit:contain}.nav-brand{display:flex!important;align-items:center!important;gap:9px!important}.payment-brand{display:inline-flex!important;align-items:center!important;gap:9px!important}@media(max-width:650px){.youfeng-brand-logo{width:29px!important;height:29px!important;flex-basis:29px!important}.nav-brand{gap:8px!important}}
