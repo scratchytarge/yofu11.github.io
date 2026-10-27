@@ -1,0 +1,1 @@
+Platform icons: Simple Icons v14, https://github.com/simple-icons/simple-icons, CC0-1.0. Brand marks remain subject to their owners trademark rights. Missing icons use a local text fallback.
